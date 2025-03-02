@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Gamal-Fawzy.Ahmed-Gamal-Fawzy&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Gamal-Fawzy.Ahmed-Gamal-Fawzy&left_text=profile%20views"  />
 </div>
 
 ###
