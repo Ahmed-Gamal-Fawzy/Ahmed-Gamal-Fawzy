@@ -1,97 +1,81 @@
-<h2 align="center">Hi 👋! I'm Ahmed Gamal</h2>
-
-<h3 align="center">Odoo Developer • Node.js Developer • Software Engineer</h3>
-
-<br/>
-
+<!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Gamal-Fawzy.Ahmed-Gamal-Fawzy&left_text=profile%20views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=header&text=Ahmed%20Gamal&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
+
+<h2 align="center">Odoo Developer • Node.js Developer • Software Engineer</h2>
+
+<p align="center"> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Gamal-Fawzy.Ahmed-Gamal-Fawzy&left_text=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Ahmed-Gamal-Fawzy?label=Followers&style=flat&color=0e75b6" />
+</p>
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+### 👨‍💻 About Me
 
-<div align="center">
+- 💼 **Odoo Developer** specializing in custom modules & business workflows  
+- 🟢 **Node.js Backend Developer**  
+- 🐍 Strong experience with **Python**, APIs, and automation  
+- 🛠 Building ERP solutions, REST APIs, and scalable backends  
+- 📚 Currently learning **advanced Odoo**, **Nodejs**  
+- 📫 Reach me: **ahmedgamal0111@gmail.com**  
 
-  <!-- Odoo -->
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" />
-  <img width="12" />
-
-  <!-- PyCharm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+</p>
 
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Gamal-Fawzy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Gamal-Fawzy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Gamal-Fawzy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+### 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Gamal-Fawzy&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Gamal-Fawzy&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-
-<h2 align="center">📬 Connect With Me</h2>
-
-<div align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ahmed-gamal-14563222a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100025521079089" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35" />
+  <a href="mailto:ahmedgamal0111389@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
+
+---
+
+<!-- ======== SNAKE ANIMATION ======== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed-Gamal-Fawzy/Ahmed-Gamal-Fawzy/output/snake.svg" />
 </div>
 
-<br/>
-
-<!-- Snake Animation -->
+<!-- ========== FOOTER ========== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Gamal-Fawzy/Ahmed-Gamal-Fawzy/output/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer" width="100%"/>
 </div>
