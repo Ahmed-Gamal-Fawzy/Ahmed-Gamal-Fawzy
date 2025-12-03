@@ -55,6 +55,11 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Gamal-Fawzy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
+<!-- إضافة السنيك -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed-Gamal-Fawzy/Ahmed-Gamal-Fawzy/main/github-contribution-grid-snake.svg" width="75%">
+</div>
+
 ---
 
 ### 🌐 Connect With Me
