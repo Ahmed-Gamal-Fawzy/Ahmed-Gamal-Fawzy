@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=header&text=Ahmed%20Gamal&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
-<h2 align="center">Odoo Developer • Node.js Developer • Software Engineer</h2>
+<h2 align="center">Software Engineer</h2>
 
 <p align="center"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Gamal-Fawzy.Ahmed-Gamal-Fawzy&left_text=Profile%20Views&color=0e75b6&style=flat" />
@@ -18,7 +18,7 @@
 - 🟢 **Node.js Backend Developer**  
 - 🐍 Strong experience with **Python**, APIs, and automation  
 - 🛠 Building ERP solutions, REST APIs, and scalable backends  
-- 📚 Currently learning **advanced Odoo**, **Nodejs**  
+- 📚 Currently learning **advanced Nodejs**, **NestJS**  
 - 📫 Reach me: **ahmedgamal0111@gmail.com**  
 
 ---
