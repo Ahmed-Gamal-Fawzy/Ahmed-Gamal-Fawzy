@@ -15,10 +15,10 @@
 ### 👨‍💻 About Me
 
 - 💼 **Odoo Developer** specializing in custom modules & business workflows  
-- 🟢 **Node.js Backend Developer**  
+- 🟢 **Java Backend Developer**  
 - 🐍 Strong experience with **Python**, APIs, and automation  
 - 🛠 Building ERP solutions, REST APIs, and scalable backends  
-- 📚 Currently learning **advanced Nodejs**, **NestJS**  
+- 📚 Currently learning **spring Framework**, **Java**  
 - 📫 Reach me: **ahmedgamal0111@gmail.com**  
 
 ---
@@ -42,16 +42,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50"/>
 
+  <!-- أضافت Java و Spring Boot -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+
 </p>
+
 
 
 ---
